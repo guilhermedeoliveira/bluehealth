@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BlueHealth</string>
+    <string name="title_activity_maps">Mapa BlueHealth</string>
+    <string name="slide1_title">BlueHealth</string>
+    <string name="slide1_desc">Bem-vindo ao BlueHealth!\n Aqui você poderá guardar todos os seus exames médicos na nuvem e encontrar o estabelecimento de saúde mais próximo de você. \n\nDeslize para a esquerda para realizar o cadastro.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro">Intro BlueHealth</string>
+    <string-array name="planos">
+        <item>Sistema Único de Saúde (SUS)</item>
+        <item>AMIL</item>
+        <item>Unimed</item>
+    </string-array>
+</resources>
